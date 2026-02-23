@@ -144,18 +144,6 @@ src/
 
 ---
 
-## 🌐 Deployment
-
-### Deploy to Vercel
-
-The project includes a `vercel.json` with SPA routing pre-configured.
-
-**Option 1: Vercel CLI**
-```bash
-npm install -g vercel
-vercel --prod
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License.
