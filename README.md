@@ -1,4 +1,4 @@
-# 🔗 ReferralHub — Job Referral Management System
+# 🔗 ReferralHub: Job Referral Management System
 
 A modern, production-ready React frontend for managing employee referrals. Built with React, Apollo Client, and a live GraphQL backend.
 
