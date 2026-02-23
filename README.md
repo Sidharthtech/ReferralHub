@@ -156,13 +156,6 @@ npm install -g vercel
 vercel --prod
 ```
 
-**Option 2: GitHub Integration**
-1. Push to GitHub
-2. Import the repo on [vercel.com](https://vercel.com)
-3. Click **Deploy** — Vercel auto-detects Vite
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License.
